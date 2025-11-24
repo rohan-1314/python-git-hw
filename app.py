@@ -15,3 +15,6 @@ except ValueError:
 
 # Task 3 (continued): Perform calculation
 weekly_hours = hours * 7
+
+# Task 4: Display clear output
+print(f"\nIf you keep this pace, you will study about {weekly_hours} hours this week!")
