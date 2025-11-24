@@ -12,3 +12,6 @@ try:
 except ValueError:
     print("Please enter a valid number next time.")
     exit()
+
+# Task 3 (continued): Perform calculation
+weekly_hours = hours * 7
